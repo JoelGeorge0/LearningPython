@@ -2,4 +2,4 @@
 This is a calculator developed in python. The purpose of the program is to do basic 
 calculator operations.
 
-Am I in DevBranch?
+learning on basic mathematical operations using python
