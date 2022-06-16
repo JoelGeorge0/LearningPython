@@ -14,3 +14,6 @@ is within 5 tries
 
 # 4) Computer Guess The number
 The program guesses the number the user is thinking of.
+
+# 5) Rock Paper Scissors
+ Rock Paper scissors game in python 
